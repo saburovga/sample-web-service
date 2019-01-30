@@ -22,6 +22,7 @@
     }
 ```
 
+
 # SIMPLE WEB SERVICE PROJECT
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/fiskra/sample-web-service/master/LICENSE)
 ## Getting Started
